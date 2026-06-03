@@ -55,7 +55,6 @@ def board_is_full(board):
 
 
 # this is the minimax thing, it looks at all possible moves
-# i dont fully understand it but it works 
 def minimax(board, depth, my_turn):
 
     # if computer won give it a good score
