@@ -1,6 +1,6 @@
 # ❌ AI Unbeatable Tic-Tac-Toe ⭕
 
-[![Run on Replit](https://replit.com/badge/github/Are-AnirudhReddy06/Tic-Tac-Toe_Python)](https://replit.com/@anirudhyeluri27/Tic-Tac-ToePython)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/Are-AnirudhReddy06/Tic-Tac-Toe_Python)
 
 A command-line Tic-Tac-Toe game written in Python. Play against a computer opponent driven by a recursive **Minimax algorithm** that calculates every possible outcome to ensure it never loses!
 
